@@ -1,0 +1,19 @@
+{
+  "name": "derivative-generator",
+  "version": "1.0.0",
+  "main": "src/entry.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@types/inquirer": "^9.0.3",
+    "docxtemplater": "^3.34.3",
+    "fs-extra": "^11.1.0",
+    "inquirer": "^8.0.0",
+    "mime-types": "^2.1.35",
+    "pizzip": "^3.1.4"
+  }
+}
